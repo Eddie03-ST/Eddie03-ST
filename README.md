@@ -1,4 +1,4 @@
-## Hi there 👋
+## <What's Up The Internet!> 👋
 
 <!--
 **Eddie03-ST/Eddie03-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 

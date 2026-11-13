@@ -1,5 +1,14 @@
 ## <What's Up The Internet!> 👋
 
+Hello GitHub Users! It is me..........
+Eddie03-ST!
+I am a student at The University of Illinois Chicago! That's in the windy city! super cold brrrrrr......🥶🥶❄️❄️❄️
+anyway... I like a plethora of different topics, but the elephant in the room is.... CODING!!
+Coding is really cool and hard.... it's really an interesting topic. The main coding languages that I am currently working on are C++, C, and a little bit of Python🐍
+I mainly do some projects here and there, but that's my main focus yo! The other subtopics are Music and Cold War History! 
+
+
+
 <!--
 **Eddie03-ST/Eddie03-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
